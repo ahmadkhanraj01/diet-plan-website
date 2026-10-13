@@ -1,6 +1,9 @@
 # Roti & Routine
 Mobile-first Pakistani meal planner. Static HTML, CSS, JavaScript and JSON. No build, backend, API key or package installation needed.
 
+##Live link
+https://ahmadkhanraj01.github.io/diet-plan-website/
+
 ## Folder structure
 ```text
 roti-routine/
