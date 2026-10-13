@@ -1,0 +1,361 @@
+[
+  [
+    {
+      "meal": 0,
+      "id": "tea",
+      "q": 1
+    },
+    {
+      "meal": 1,
+      "id": "roti",
+      "q": 2
+    },
+    {
+      "meal": 1,
+      "id": "daal",
+      "q": 200
+    },
+    {
+      "meal": 1,
+      "id": "salad",
+      "q": 200
+    },
+    {
+      "meal": 2,
+      "id": "roasted",
+      "q": 30
+    },
+    {
+      "meal": 2,
+      "id": "banana",
+      "q": 1
+    },
+    {
+      "meal": 3,
+      "id": "karahi",
+      "q": 250
+    },
+    {
+      "meal": 3,
+      "id": "salad",
+      "q": 200
+    },
+    {
+      "meal": 3,
+      "id": "roti",
+      "q": 2
+    },
+    {
+      "meal": 4,
+      "id": "milk",
+      "q": 250
+    }
+  ],
+  [
+    {
+      "meal": 0,
+      "id": "tea",
+      "q": 1
+    },
+    {
+      "meal": 1,
+      "id": "roti",
+      "q": 2
+    },
+    {
+      "meal": 1,
+      "id": "lobia",
+      "q": 200
+    },
+    {
+      "meal": 1,
+      "id": "salad",
+      "q": 200
+    },
+    {
+      "meal": 2,
+      "id": "roasted",
+      "q": 30
+    },
+    {
+      "meal": 2,
+      "id": "banana",
+      "q": 1
+    },
+    {
+      "meal": 3,
+      "id": "pulao",
+      "q": 350
+    },
+    {
+      "meal": 3,
+      "id": "salad",
+      "q": 200
+    },
+    {
+      "meal": 4,
+      "id": "milk",
+      "q": 250
+    }
+  ],
+  [
+    {
+      "meal": 0,
+      "id": "tea",
+      "q": 1
+    },
+    {
+      "meal": 1,
+      "id": "roti",
+      "q": 2
+    },
+    {
+      "meal": 1,
+      "id": "chana",
+      "q": 200
+    },
+    {
+      "meal": 1,
+      "id": "salad",
+      "q": 200
+    },
+    {
+      "meal": 2,
+      "id": "roasted",
+      "q": 30
+    },
+    {
+      "meal": 2,
+      "id": "banana",
+      "q": 1
+    },
+    {
+      "meal": 3,
+      "id": "lobia",
+      "q": 300
+    },
+    {
+      "meal": 3,
+      "id": "salad",
+      "q": 200
+    },
+    {
+      "meal": 3,
+      "id": "roti",
+      "q": 2
+    },
+    {
+      "meal": 4,
+      "id": "milk",
+      "q": 250
+    },
+    {
+      "meal": 4,
+      "id": "chicken",
+      "q": 100
+    }
+  ],
+  [
+    {
+      "meal": 0,
+      "id": "tea",
+      "q": 1
+    },
+    {
+      "meal": 1,
+      "id": "roti",
+      "q": 2
+    },
+    {
+      "meal": 1,
+      "id": "daal",
+      "q": 200
+    },
+    {
+      "meal": 1,
+      "id": "salad",
+      "q": 200
+    },
+    {
+      "meal": 2,
+      "id": "roasted",
+      "q": 30
+    },
+    {
+      "meal": 2,
+      "id": "banana",
+      "q": 1
+    },
+    {
+      "meal": 3,
+      "id": "korma",
+      "q": 250
+    },
+    {
+      "meal": 3,
+      "id": "salad",
+      "q": 200
+    },
+    {
+      "meal": 3,
+      "id": "roti",
+      "q": 2
+    },
+    {
+      "meal": 4,
+      "id": "milk",
+      "q": 250
+    }
+  ],
+  [
+    {
+      "meal": 0,
+      "id": "tea",
+      "q": 1
+    },
+    {
+      "meal": 1,
+      "id": "roti",
+      "q": 2
+    },
+    {
+      "meal": 1,
+      "id": "lobia",
+      "q": 200
+    },
+    {
+      "meal": 1,
+      "id": "salad",
+      "q": 200
+    },
+    {
+      "meal": 2,
+      "id": "roasted",
+      "q": 30
+    },
+    {
+      "meal": 2,
+      "id": "banana",
+      "q": 1
+    },
+    {
+      "meal": 3,
+      "id": "biryani",
+      "q": 350
+    },
+    {
+      "meal": 3,
+      "id": "salad",
+      "q": 200
+    },
+    {
+      "meal": 4,
+      "id": "milk",
+      "q": 250
+    }
+  ],
+  [
+    {
+      "meal": 0,
+      "id": "tea",
+      "q": 1
+    },
+    {
+      "meal": 1,
+      "id": "roti",
+      "q": 2
+    },
+    {
+      "meal": 1,
+      "id": "chana",
+      "q": 200
+    },
+    {
+      "meal": 1,
+      "id": "salad",
+      "q": 200
+    },
+    {
+      "meal": 2,
+      "id": "roasted",
+      "q": 30
+    },
+    {
+      "meal": 2,
+      "id": "banana",
+      "q": 1
+    },
+    {
+      "meal": 3,
+      "id": "kabulibeef",
+      "q": 350
+    },
+    {
+      "meal": 3,
+      "id": "salad",
+      "q": 200
+    },
+    {
+      "meal": 4,
+      "id": "milk",
+      "q": 250
+    }
+  ],
+  [
+    {
+      "meal": 0,
+      "id": "tea",
+      "q": 1
+    },
+    {
+      "meal": 1,
+      "id": "roti",
+      "q": 2
+    },
+    {
+      "meal": 1,
+      "id": "daal",
+      "q": 200
+    },
+    {
+      "meal": 1,
+      "id": "salad",
+      "q": 200
+    },
+    {
+      "meal": 2,
+      "id": "roasted",
+      "q": 30
+    },
+    {
+      "meal": 2,
+      "id": "banana",
+      "q": 1
+    },
+    {
+      "meal": 3,
+      "id": "chana",
+      "q": 300
+    },
+    {
+      "meal": 3,
+      "id": "salad",
+      "q": 200
+    },
+    {
+      "meal": 3,
+      "id": "roti",
+      "q": 2
+    },
+    {
+      "meal": 4,
+      "id": "milk",
+      "q": 250
+    },
+    {
+      "meal": 4,
+      "id": "chicken",
+      "q": 100
+    }
+  ]
+]

@@ -1,0 +1,11 @@
+{
+  "profile": {
+    "age": 21,
+    "height": 181,
+    "weight": 78,
+    "sex": "male",
+    "activity": 1.2
+  },
+  "calorieTarget": 1850,
+  "proteinTarget": 125
+}

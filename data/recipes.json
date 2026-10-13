@@ -1,0 +1,181 @@
+[
+  {
+    "id": "egg-yogurt",
+    "name": "Boiled egg & yogurt bowl",
+    "minutes": 15,
+    "equipment": "Saucepan, stove, bowl",
+    "servings": 1,
+    "ingredients": [
+      {
+        "foodId": "egg",
+        "quantity": 2
+      },
+      {
+        "foodId": "yogurt",
+        "quantity": 150
+      },
+      {
+        "foodId": "salad",
+        "quantity": 100
+      }
+    ],
+    "steps": [
+      "Cover two eggs with water in a saucepan and bring to a boil. Simmer for about 10–12 minutes until the white and yolk are firm.",
+      "Cool in clean cold water, peel and chop.",
+      "Mix 150 g plain yogurt with 100 g chopped cucumber, tomato and onion. Add a pinch of cumin and pepper.",
+      "Top with eggs and serve. Optional roti is logged separately."
+    ],
+    "note": "Optional protein meal, not compulsory. Use pasteurized yogurt. Eat promptly; without a fridge, make only what you will eat now.",
+    "image": "assets/images/egg-yogurt.svg",
+    "imageAlt": "Illustration of Boiled egg & yogurt bowl"
+  },
+  {
+    "id": "chana-chaat",
+    "name": "Budget chana chaat",
+    "minutes": 10,
+    "equipment": "Knife, bowl; no stove if chickpeas are pre-cooked",
+    "servings": 1,
+    "ingredients": [
+      {
+        "foodId": "boiledchana",
+        "quantity": 150
+      },
+      {
+        "foodId": "salad",
+        "quantity": 150
+      }
+    ],
+    "steps": [
+      "Use 150 g cooked drained chickpeas, or rinse canned chickpeas. Never use raw dried chickpeas.",
+      "Chop cucumber, tomato and onion to make 150 g salad.",
+      "Mix with chickpeas, lemon juice, cumin and a small pinch of salt.",
+      "Serve immediately. Add a roti separately if you want a larger meal."
+    ],
+    "note": "Lemon and small spice amounts are not included in the estimate. A cheaper alternative to buying specialty nuts.",
+    "image": "assets/images/chana-chaat.svg",
+    "imageAlt": "Illustration of Budget chana chaat"
+  },
+  {
+    "id": "oats-milk",
+    "name": "Simple milk oats",
+    "minutes": 8,
+    "equipment": "Saucepan and stove",
+    "servings": 1,
+    "ingredients": [
+      {
+        "foodId": "oats",
+        "quantity": 40
+      },
+      {
+        "foodId": "milk",
+        "quantity": 200
+      },
+      {
+        "foodId": "banana",
+        "quantity": 0.5
+      }
+    ],
+    "steps": [
+      "Put 40 g dry oats and 200 ml pasteurized milk in a saucepan.",
+      "Simmer for 4–6 minutes, stirring until soft. Add water if too thick.",
+      "Slice half a medium banana on top. Cinnamon is optional.",
+      "Serve warm without added sugar. This can be an evening meal; breakfast is optional."
+    ],
+    "note": "If using raw milk, boil it before use. Milk and banana can be replaced; log replacements separately.",
+    "image": "assets/images/oats-milk.svg",
+    "imageAlt": "Illustration of Simple milk oats"
+  },
+  {
+    "id": "lentil-bowl",
+    "name": "One-pot lentil bowl",
+    "minutes": 30,
+    "equipment": "Saucepan, stove, knife",
+    "servings": 1,
+    "ingredients": [
+      {
+        "foodId": "boiledlentils",
+        "quantity": 250
+      },
+      {
+        "foodId": "oil",
+        "quantity": 1
+      },
+      {
+        "foodId": "salad",
+        "quantity": 100
+      },
+      {
+        "foodId": "roti",
+        "quantity": 1
+      }
+    ],
+    "steps": [
+      "Rinse dry red lentils and simmer in water until completely soft, roughly 15–25 minutes. Add water as needed.",
+      "Measure 250 g of the cooked lentils for this serving. Dry and cooked weights are different.",
+      "Stir in 1 teaspoon oil and cumin or turmeric; warm through.",
+      "Serve with 100 g chopped salad and one medium plain roti."
+    ],
+    "note": "Cook enough lentils to yield the stated cooked weight. Refrigerate leftovers promptly; do not leave a pot out overnight.",
+    "image": "assets/images/lentil-bowl.svg",
+    "imageAlt": "Illustration of One-pot lentil bowl"
+  },
+  {
+    "id": "chicken-wrap",
+    "name": "Chicken & yogurt roti wrap",
+    "minutes": 10,
+    "equipment": "Knife and bowl; cooked chicken required",
+    "servings": 1,
+    "ingredients": [
+      {
+        "foodId": "chicken",
+        "quantity": 100
+      },
+      {
+        "foodId": "yogurt",
+        "quantity": 50
+      },
+      {
+        "foodId": "salad",
+        "quantity": 100
+      },
+      {
+        "foodId": "roti",
+        "quantity": 1
+      }
+    ],
+    "steps": [
+      "Use 100 g safely cooked, boneless skinless chicken; shred it.",
+      "Mix with 50 g yogurt, black pepper and a little lemon.",
+      "Fill one plain roti with the chicken mixture and 100 g salad.",
+      "Fold and eat promptly. Avoid mayonnaise unless you log it separately."
+    ],
+    "note": "Use freshly cooked chicken or safely refrigerated leftovers. This recipe does not instruct cooking raw chicken.",
+    "image": "assets/images/chicken-wrap.svg",
+    "imageAlt": "Illustration of Chicken & yogurt roti wrap"
+  },
+  {
+    "id": "peanut-fruit",
+    "name": "No-cook fruit & peanut snack",
+    "minutes": 3,
+    "equipment": "Knife and small bowl",
+    "servings": 1,
+    "ingredients": [
+      {
+        "foodId": "apple",
+        "quantity": 1
+      },
+      {
+        "foodId": "peanut",
+        "quantity": 20
+      }
+    ],
+    "steps": [
+      "Wash and chop one medium apple.",
+      "Measure 20 g shelled plain peanuts.",
+      "Serve together; no cream or syrup needed."
+    ],
+    "note": "A snack, not a high-protein replacement for dinner. Avoid peanuts if allergic.",
+    "image": "assets/images/peanut-fruit.svg",
+    "imageAlt": "Illustration of No-cook fruit & peanut snack"
+  }
+]
